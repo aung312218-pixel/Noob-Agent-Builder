@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent Builder",
+  "description": "A workspace to build and interact with your own custom AI agent, starting with a basic chat interface and persona builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
